@@ -1,0 +1,37 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,500);
+
+#quote-box {
+    margin: 70px auto 0 auto;
+    padding: 50px;
+    background: white;
+    width: 500px;
+    border-radius: 2px;
+    font-family: 'Raleway', sans-serif;
+}
+
+#quote-text {
+    font-size: 28px;
+}
+
+blockquote {
+    padding: 10px;
+}
+
+#quote-author {
+    font-size: 16px;
+}
+
+#get-quote {
+    position: relative;
+    left: 280px;
+    bottom: 5px;
+    color: white;
+    margin-top: 10px;
+}
+
+#author {
+    color: white;
+    font-size: 16px;
+    margin-top: 10px;
+    font-family: 'Raleway', sans-serif;
+}
